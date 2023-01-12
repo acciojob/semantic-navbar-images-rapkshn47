@@ -1,2 +1,8 @@
-
-/* Your CSS Code here. */
+ul { 
+   padding: 0px
+}
+li {
+   display: inline-block;
+   width: auto;
+   list-style: outside none none;
+}
